@@ -1,29 +1,100 @@
-# Hola, soy Santiago Jofre (Chago) 👋
+<div align="center">
 
-Soy estudiante de Informática en la Universidad Austral de Chile (UACh) en Valdivia. Me apasiona el desarrollo de software, desde la construcción de arquitecturas backend hasta la creación de videojuegos. 
+<h1>Santiago Jofré Montano</h1>
 
-Cuando no estoy escribiendo código, probablemente me encuentres entrenando para mi próxima maratón o triatlón, pedaleando en mi bicicleta de ruta, o analizando las mecánicas de diseño de juegos como *Outer Wilds* o *Resident Evil 4*.
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Estudiante+de+informatica;Runner;Backend+Developer;IA+abuser" alt="Typing SVG" />
+</a>
 
-## 🛠️ Tecnologías y Herramientas
+<br/><br/>
 
-*   **Lenguajes:** Python, C++, Haskell
-*   **Backend & APIs:** FastAPI, Pydantic
-*   **Bases de Datos:** PostgreSQL, Firebase (Auth)
-*   **Infraestructura & DevOps:** Docker
-*   **Librerías Gráficas:** Gloss (para Haskell)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SJofreMontano.SJofreMontano" />
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mí
+
+Estudiante de cuarto año de **Informática** en la Universidad Austral de Chile (UACh). Combino mi formación técnica y desarrollo de software con mi pasión por los deportes de resistencia y el diseño de videojuegos.
+
+- 🤖 **En desarrollo:** Creando un modelo de IA para predecir resultados de partidos de fútbol basándose exclusivamente en estadísticas de la temporada.
+- 🏃‍♂️ **Deportes de resistencia:** Entrenando activamente para maratones y triatlones, aplicando la misma precisión analítica a mis tiempos y consumo de energía que al código.
+- 🎮 **Game Design:** Apasionado por el análisis de mecánicas de juegos como *Outer Wilds*, *Resident Evil 4 Remake* y *Hearthstone*.
+- 🏗️ **Lógica y creatividad:** Llevando la estructura al extremo, como planificar torres masivas en Minecraft basadas matemáticamente en la rareza de generación de bloques.
+
+---
+
+## 🛠️ Tech Stack
+
+**Lenguajes**
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" title="Haskell" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" />
+</div>
+
+<br/>
+
+**Frontend**
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
+</div>
+
+<br/>
+
+**Backend & Bases de datos**
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" title="FastAPI" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" title="Firebase" />
+</div>
+
+<br/>
+
+**Data & Herramientas**
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" title="Jupyter Notebook" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" title="Docker" />
+</div>
+
+---
 
 ## 🚀 Proyectos Destacados
 
-*   **Asistente Clínico Conversacional:** Desarrollo de una API backend con FastAPI e integración con Firebase para la gestión de usuarios y autenticación, junto con modelado de bases de datos.
-*   **Vampire Survivors-like Game:** Videojuego de supervivencia desarrollado completamente en Haskell utilizando la librería Gloss, implementando sistemas de renderizado, físicas y movimiento basado en vectores.
-*   **Arquitectura en Minecraft:** Proyecto de supervivencia enfocado en la construcción de una torre vertical masiva (capas -64 a 320) ordenada secuencialmente por la rareza de generación de los bloques.
+### [Vampire Survivors-like Game](https://github.com/SJofreMontano/JuegoHaskell)
 
-## ⚡ Datos Curiosos
+Videojuego de supervivencia desarrollado completamente en el paradigma funcional utilizando Haskell y la librería gráfica Gloss. Implementa sistemas de renderizado propio, uso de coordenadas cartesianas y físicas de movimiento basadas en vectores.
 
-*   **Deportes de resistencia:** Planifico mis entrenamientos de running y consumo de geles con la misma precisión que un algoritmo. 
-*   **Intereses técnicos:** Disfruto resolviendo problemas de despliegue en entornos Docker y optimizando esquemas de bases de datos relacionales.
+`Haskell` `Gloss` `Game Dev` `Vectores`
 
-## 📫 Cómo conectar conmigo
+---
 
-*   💼 **LinkedIn:** [Enlace a tu perfil]
-*   📧 **Email:** [Tu correo electrónico]
+### [Asistente Clínico Conversacional](https://github.com/SJofreMontano/Clinica_Users)
+
+Desarrollo de una API backend robusta para el manejo de usuarios en un entorno clínico. Integración directa con Firebase Auth para registro y autenticación segura de endpoints, modelando la información a través de esquemas estructurados.
+
+`Python` `FastAPI` `Pydantic` `Firebase` `Docker`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SJofreMontano&show_icons=true&theme=dark&hide_border=false&border_radius=5&rank_icon=github" height="150" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJofreMontano&layout=compact&theme=dark&hide_border=false&border_radius=5" height="150" />
+</div>
