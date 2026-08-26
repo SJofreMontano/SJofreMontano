@@ -19,8 +19,7 @@
 Estudiante de cuarto año de **Informática** en la Universidad Austral de Chile (UACh). Combino mi formación técnica y desarrollo de software con mi pasión por los deportes de resistencia y el diseño de videojuegos.
 
 - 🤖 **En desarrollo:** Creando un modelo de IA para predecir resultados de partidos de fútbol basándose exclusivamente en estadísticas de la temporada.
-- 🏃‍♂️ **Deportes de resistencia:** Entrenando activamente para maratones y triatlones, aplicando la misma precisión analítica a mis tiempos y consumo de energía que al código.
-- 🎮 **Game Design:** Apasionado por el análisis de mecánicas de juegos como *Outer Wilds*, *Resident Evil 4 Remake* y *Hearthstone*.
+                        Trabajando tambien en una Plataforma Web de Monitoreo y Gestión Clínica Asistida por IA
 - 🏗️ **Lógica y creatividad:** Llevando la estructura al extremo, como planificar torres masivas en Minecraft basadas matemáticamente en la rareza de generación de bloques.
 
 ---
