@@ -1,17 +1,4 @@
-lun, 14 sept a la(s) 0:04
-01c102dd-79a3-471b-9c38-fecf30cb81da.png
-por que me sale asi
 
-miércoles 20:36
-737bd1f0-2a0c-4372-bd65-ac920ff547f0.png
-quiero bajar todos los cambios que hay en main 
-
-cbd35176-eddb-487b-b0b9-5074d3ec90c7.png
-ya baje todo y quiero llevar todo esto a la rama test 
-
-hoy 9:20
-62487a9e-88cd-43e4-9687-60c9466905af.png
-en mi perfil de github como puedo poner la stats de mis commit que hago
 
 <div align="center">
 
